@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BasicArrays1()
+comment1.params=
+comment1.target=void\ populateLine()
+comment2.params=
+comment2.target=void\ drawLine()
+comment3.params=row
+comment3.target=void\ drawLineCell(int)
+comment4.params=numItems\ value
+comment4.target=java.awt.Color\ getColor(int,\ int)
+comment5.params=arguments
+comment5.target=void\ main(java.lang.String[])
+comment6.params=
+comment6.target=void\ populateBox()
+comment7.params=
+comment7.target=void\ drawBox()
+comment8.params=row\ col
+comment8.target=void\ drawBoxCell(int,\ int)
+comment9.params=
+comment9.target=void\ populateSpiral()
+numComments=10

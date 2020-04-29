@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Game16
+comment1.params=
+comment1.target=Game16()
+comment2.params=key
+comment2.target=void\ doKey(java.lang.String)
+comment2.text=Respond\ to\ key\ actions
+comment3.params=
+comment3.target=void\ startGame()
+comment4.params=direction
+comment4.target=void\ move(java.lang.String)
+comment5.params=arguments
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BasicArrays
+comment1.params=
+comment1.target=BasicArrays()
+comment2.params=
+comment2.target=void\ doClear()
+comment3.params=
+comment3.target=void\ doVerticalLine()
+comment4.params=
+comment4.target=void\ doBox()
+comment5.params=
+comment5.target=void\ doSpiral()
+comment6.params=numItems\ value
+comment6.target=java.awt.Color\ getColor(int,\ int)
+numComments=7

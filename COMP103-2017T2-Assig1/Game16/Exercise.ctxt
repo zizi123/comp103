@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exercise
+comment1.params=x
+comment1.target=Parent(int)
+comment2.params=x
+comment2.target=int\ m(int)
+comment3.params=x
+comment3.target=Parent\ k(Parent)
+comment4.params=x
+comment4.target=int\ f(int)
+comment5.params=arg
+comment5.target=void\ main(java.lang.String[])
+numComments=6

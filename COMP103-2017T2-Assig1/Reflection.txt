@@ -1,0 +1,26 @@
+/* Reflection.txt for COMP103 - 2017T2, Assignment 1
+ * Name:zhaoziha
+ * Username:
+ * ID:300345955
+ */
+
+For your reflection:
+====================
+
+Write a paragraph that describes an aspect of the material we've covered 
+so far (i.e. anything in the lectures to date, or this assignment) that 
+you found particularly interesting, or tricky to understand. Include how 
+you went about exploring further, learning about the issue to your own 
+satisfaction. If understanding it remains a problem for you, outline 
+what your next step will be in sorting this out.
+
+there is not enough understanding in using of array, 
+especailly in some detials. for example, the length of array,and index start at 0.
+sometimes,I can get idea about how to solve the problems, 
+but really hard to describe in the way of code. 
+even I can describe it, still bugs exsit.
+1.beginning homework early and if there are some problem, 
+ask tutor or asking help from online help.
+2.doing more practice different question in one feild. 
+for example, array, I can find resourses at library to practice.   
+3.it is really difficult to fix bug by myself.
